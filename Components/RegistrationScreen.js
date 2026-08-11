@@ -284,7 +284,6 @@ const styles = StyleSheet.create({
     width: 280,
     height: 280,
     borderRadius: 140,
-    backgroundColor: 'rgba(212, 175, 55, 0.06)',
     top: -100,
     right: -100,
   },
