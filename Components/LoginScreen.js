@@ -90,7 +90,6 @@ const LoginScreen = ({navigation}) => {
           onPress: () => {
             setEmail('');
             setPassword('');
-            navigation.replace('Home');
           },
         },
       ]);
